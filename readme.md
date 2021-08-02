@@ -10,6 +10,7 @@ swz : hocam type casting nedir fazla kaçtınız çoçuklara yazık değil mi sa
 
 null : :D
 
+veffy : xD
 
 Resimler;
 aynen hocam net şekilde swz ;
