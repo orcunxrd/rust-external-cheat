@@ -8,7 +8,7 @@ tam paster list : (refo(lordcheats.org),ata(victoryrust),bakunin,mrkouhx,thenark
 
 swz : hocam type casting nedir fazla kaçtınız çoçuklara yazık değil mi sağ tık build olması sanırım o 
 
-null : :D
+null : :DD
 
 veffy : xD
 
