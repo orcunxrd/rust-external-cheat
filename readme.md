@@ -1,22 +1,16 @@
-# rust-external-cheat
-Rust External Cheat
+# Rust External Cheat
+It is an example of an external cheat for Rust.
 
-neden bu projedesiniz hemen anlatayım;
-daha type casting nedir bilmeyen pasterların pastelediği sourcedir.
+# Features:
+- Aimbot
+- Silent Aim
+- Aimbot Smooth
+- ESP
+  - Player
+  - Prefab
 
-tam paster list : (refo(lordcheats.org),ata(victoryrust),bakunin,mrkouhx,thenarkoz,apo)
+# Usage
+You can adapt it to your own driver, compile and use the project. Or you can use it with the NMan driver included.
 
-swz : hocam type casting nedir fazla kaçtınız çoçuklara yazık değil mi sağ tık build olması sanırım o 
-
-null : :DD
-
-veffy : xD
-
-Resimler;
-aynen hocam net şekilde swz ;
-
-![res1](https://github.com/orcunxrd/rust-external-cheat/blob/main/images/aynen%20hocam.png?raw=true)
-
-nullun notu:
-
-![res2](https://github.com/orcunxrd/rust-external-cheat/blob/main/allahim.png?raw=true)
+# Credits
+Driver: https://github.com/NMan1/OverflowRust
